@@ -137,6 +137,25 @@ flowchart TD
 
 ---
 
+
+## 📸 Dashboard Screenshots
+
+### 1. Executive Mobility Overview
+![Mobility 1](screenshots/mobility(1).png)
+![Mobility 2](screenshots/mobility(2).png)
+
+### 2. Corridor Bottlenecks
+![Corridor 1](screenshots/corridor(1).png)
+![Corridor 2](screenshots/corridor(2).png)
+
+### 3. Weather-Mobility Impact
+![Weather](screenshots/weather.png)
+
+### 4. Lakehouse Observability
+![Lakehouse 1](screenshots/lakehouse(1).png)
+![Lakehouse 2](screenshots/lakehouse(2).png)
+
+
 ## 4. Directory & Folder Structure
 
 ```text
