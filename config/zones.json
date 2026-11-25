@@ -1,0 +1,37 @@
+[
+  {
+    "zone_id": "ZONE_CBD_SHIVAJI_NAGAR",
+    "zone_name": "Shivaji Nagar Central Business District",
+    "roads": ["FC Road", "JM Road", "University Road"],
+    "base_capacity": 150,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "zone_id": "ZONE_IT_HINJEWADI",
+    "zone_name": "Hinjewadi Tech Corridor",
+    "roads": ["Hinjewadi Phase 1 Main Rd", "Rajiv Gandhi Infotech Expressway", "Marunji Road"],
+    "base_capacity": 220,
+    "speed_limit_kmh": 65.0
+  },
+  {
+    "zone_id": "ZONE_TRANSIT_STATION",
+    "zone_name": "Pune Railway Station & Transit Hub",
+    "roads": ["Station Road Approach", "Ambedkar Setu", "Sassoon Road"],
+    "base_capacity": 180,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "zone_id": "ZONE_WEST_KOTHRUD",
+    "zone_name": "Kothrud Residential & Commercial Arterial",
+    "roads": ["Karve Road", "Paud Road", "Mayur Colony Crossway"],
+    "base_capacity": 140,
+    "speed_limit_kmh": 45.0
+  },
+  {
+    "zone_id": "ZONE_EAST_VIMAN_NAGAR",
+    "zone_name": "Viman Nagar & Airport Mobility Corridor",
+    "roads": ["Pune-Ahmednagar Highway", "Airport New VIP Road", "Symbiosis Bypass"],
+    "base_capacity": 200,
+    "speed_limit_kmh": 60.0
+  }
+]
